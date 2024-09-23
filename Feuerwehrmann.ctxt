@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Feuerwehrmann
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ fallen()
+comment3.params=
+comment3.target=boolean\ beruehrtBoden()
+comment4.params=
+comment4.target=void\ schiesen()
+comment5.params=
+comment5.target=void\ springen()
+comment6.params=
+comment6.target=void\ gameOver()
+comment7.params=
+comment7.target=void\ retten()
+numComments=8
